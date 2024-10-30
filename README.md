@@ -1,6 +1,8 @@
 # *Estructuras Discretas II*  
 **Sección: 306C1**  
-**Nombre: Juan Wu**
+**Nombre: Juan Wu**  
 Aquí presenta todos los ejercicios de programación sobre *Estructuras Discretas II*  
 
-<img src="Assets/Estructuras Discretas.jpg" width="400px" height="300px">
+<img src="Assets/Estructuras Discretas.jpg" width="400px" height="350px">  
+#Archivos:  
+El archivo "Triangulos.py" es un ejemplo de autómatas celulares
