@@ -4,5 +4,5 @@
 Aquí presenta todos los ejercicios de programación sobre *Estructuras Discretas II*  
 
 <img src="Assets/Estructuras Discretas.jpg" width="400px" height="350px">  
-#Archivos:  
+
 El archivo "Triangulos.py" es un ejemplo de autómatas celulares
